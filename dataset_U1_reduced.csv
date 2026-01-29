@@ -1,0 +1,501 @@
+id,nombre,semestre,promedio,ingresos,opinion_campus,trabaja,distancia_universidad,edad,tipo_vivienda,horas_estudio,desertor
+IDYWR7608,Leonel Longoria Granado,6,83,18014.0,10,False,5.0,19,Alquiler,90,0
+IDNLM9950,Cristobal Mauro Yáñez,2,71,18094.0,2,False,1.0,29,Alquiler,20,0
+IDPXC7820,Sandra Gregorio Anguiano,7,68,19475.0,10,False,1.0,20,Alquiler,17,0
+IDHUS8869,Lorenzo Orozco Alcántar,4,88,11906.0,7,False,5.0,31,Alquiler,25,0
+IDRBK5319,Sr(a). Camilo Menchaca,6,74,22631.0,10,False,11.0,18,Propia,17,0
+IDORT6730,Gloria Tello,6,87,34742.0,10,False,1.0,21,Alquiler,89,0
+IDPTH2874,Julio Vanesa Valdivia Peres,1,62,10833.0,8,False,8.0,18,Propia,12,1
+IDVKK1320,Fidel Gloria Olivas Pedroza,8,70,17672.0,10,True,2.0,24,Propia,98,0
+IDBPC3201,Raquel Domínguez,2,82,8300.0,6,False,1.0,21,Alquiler,79,1
+IDPDX8706,Mtro. Nadia Zamora,8,75,17491.0,8,False,,17,Alquiler,24,0
+IDGPN2418,Noelia Abigail Guardado,8,83,,2,False,4.0,18,Alquiler,19,0
+IDSAS7592,Helena Maximiliano Brito,3,71,33598.0,10,False,1.0,25,Propia,78,0
+IDFNO4827,Luz Valdivia,8,76,22145.0,1,True,1.0,25,Propia,91,0
+IDBUF5805,Leonel Antonio Gurule,8,63,,10,False,7.0,26,Propia,86,1
+IDZHQ2670,Uriel Vicente Reynoso Barela,4,73,16457.0,8,False,4.0,17,Alquiler,16,0
+IDQEY7481,José Manuél Mercado Montalvo,2,65,36039.0,7,False,,19,Alquiler,82,0
+IDDHS4372,Lilia Zepeda Bétancourt,1,100,11934.0,10,False,10.0,18,Propia,24,0
+IDRFZ7752,Abraham Isaac Amaya,1,96,25357.0,5,False,15.0,17,Alquiler,91,1
+IDCEI9145,Ing. Rocío Adame,6,71,,9,False,7.0,25,Alquiler,74,0
+IDWVU8237,Jorge Luis Santiago,1,97,,10,False,4.0,25,Alquiler,98,1
+IDLAL1497,Manuel Canales Alarcón,8,81,,9,False,1.0,17,Alquiler,77,0
+IDFDT2975,Israel Segura Zamudio,1,63,12805.0,8,False,20.0,26,Propia,19,1
+IDIAJ9315,Carolina Adriana Correa Elizondo,7,64,24515.0,7,False,9.0,19,Propia,5,0
+IDJPK9025,Noemí Feliciano,3,92,28372.0,6,False,3.0,31,Alquiler,81,0
+IDHOS5819,Espartaco Barraza,9,72,26320.0,10,True,3.0,17,Alquiler,25,0
+IDQCU8948,Carmen Micaela Jáquez,7,99,13050.0,8,False,1.0,25,Propia,78,0
+IDPVA8336,Marisol Barrera,4,68,12175.0,10,False,11.0,17,Alquiler,29,0
+IDQIP6812,Lic. Claudia Cedillo,4,95,32534.0,7,False,15.0,17,Propia,77,1
+IDAWF8219,Dalia Ivonne Chapa,7,92,,4,False,6.0,26,Alquiler,80,0
+IDSRD1803,Ilse Alba,9,74,,6,False,1.0,17,Alquiler,87,0
+IDKGN8332,Camila Manuel de Jesús Villaseñor,7,65,23180.0,10,True,6.0,29,Alquiler,18,0
+IDABW4608,Elvira Esmeralda Cedillo,8,74,8300.0,5,False,1.0,17,Alquiler,27,0
+IDMAE9313,Humberto Estela Cavazos Barrios,5,63,16463.0,2,False,1.0,20,Alquiler,30,1
+IDNSQ2427,Dulce María Rosalia Montez,4,99,11624.0,8,False,7.0,20,Alquiler,4,0
+IDOYW9936,Renato Segovia Gil,6,67,9575.0,4,False,5.0,24,Propia,77,1
+IDVLJ2095,Alejandro Marisol Cortés Campos,9,63,25135.0,7,False,7.0,22,Propia,8,0
+IDAJF8312,Joaquín Enríquez,3,89,12481.0,3,False,1.0,20,Propia,79,0
+IDFFI0230,Samuel Zacarías Saavedra,4,99,28548.0,8,True,,17,Propia,23,0
+IDDIA9579,Claudio Batista Serrato,10,72,24392.0,9,False,,18,Alquiler,4,0
+IDIHE6199,Carlos Martín Tamez,5,83,26199.0,6,False,13.0,20,Alquiler,75,0
+IDLLB4040,José Carlos Marco Antonio Coronado,2,71,16238.0,6,False,,23,Propia,77,0
+IDGBF2083,Julia Páez,5,75,19159.0,1,True,5.0,21,Propia,27,0
+IDXYB3770,Mtro. Elvia Quiñones,2,66,,5,False,5.0,17,Alquiler,92,0
+IDQBI0161,Rodolfo María Elena Solano Velasco,10,79,12363.0,3,False,,25,Alquiler,22,0
+IDWTD2014,Daniel Ulloa Rincón,8,74,,10,False,6.0,17,Alquiler,81,0
+IDEXA3947,Amador Guerrero,4,84,13491.0,5,False,1.0,21,Propia,5,0
+IDGUJ6405,Dr. Natividad Lara,6,77,18970.0,4,False,4.0,26,Propia,21,0
+IDDXI1761,Ana Luisa Hidalgo Rosales,2,86,42191.0,9,True,14.0,17,Propia,16,1
+IDQMS0160,Dr. Esperanza Serrato,9,91,36879.0,8,False,1.0,17,Alquiler,27,0
+IDUGR5544,Raquel Gastélum,3,68,22351.0,9,False,,18,Propia,7,0
+IDSMI2795,Sr(a). Luis Manuel Salas,9,61,32528.0,10,False,6.0,19,Alquiler,7,0
+IDNKS8755,Isabela Véliz Zedillo,6,65,11919.0,10,False,1.0,18,Propia,83,0
+IDQVI6019,Karina Wendolin Collazo Gálvez,7,79,25443.0,10,False,4.0,21,Alquiler,18,1
+IDQIB0512,Caridad Casas Quiñones,7,95,14511.0,9,False,1.0,25,Alquiler,87,0
+IDLIV5352,Julia Gamboa,8,64,25800.0,5,False,4.0,21,Alquiler,21,0
+IDXCH4078,Eugenio Ortega Gaitán,6,94,29728.0,10,False,,19,Alquiler,76,0
+IDVHQ3731,Rodrigo Moreno,3,66,8300.0,4,True,5.0,17,Propia,4,1
+IDPIQ2602,Dr. Sofía Cardenas,1,100,24862.0,2,False,5.0,27,Propia,94,0
+IDEJM0431,Ing. Alberto Aguilera,9,90,15946.0,10,True,9.0,27,Alquiler,13,0
+IDAOU7857,Lic. David Alvarado,10,97,8300.0,6,False,1.0,22,Propia,26,0
+IDTJG6522,Ing. Diego Salgado,7,99,,10,False,7.0,17,Propia,4,0
+IDZSR5619,Lucía Godoy Fajardo,4,72,19431.0,9,False,8.0,19,Alquiler,71,0
+IDQYD9254,Verónica Silvia Delgado Arguello,10,100,27264.0,9,False,1.0,25,Alquiler,77,0
+IDSJW6566,Eva Ilse Carrasco,8,87,25567.0,2,True,7.0,17,Alquiler,12,0
+IDAWY3055,José Luis Virginia Salcido,7,65,23611.0,9,False,6.0,31,Propia,30,0
+IDUHF6446,Rosalia Hernández,7,94,27095.0,5,False,,27,Alquiler,90,0
+IDNZO0893,Norma Felix Marroquín Segovia,6,72,18803.0,4,False,1.0,25,Alquiler,24,0
+IDFSI0786,Lic. Marcos Solís,6,82,9447.0,10,False,,17,Alquiler,94,0
+IDZGK7398,Yeni Tirado,2,90,8300.0,10,False,5.0,17,Alquiler,82,1
+IDVAS6059,Cristian Ávalos Escamilla,3,88,25240.0,8,False,4.0,19,Propia,23,0
+IDMED1669,Eduardo Zelaya Tamayo,6,70,24090.0,10,False,1.0,19,Alquiler,95,0
+IDEAH2139,Zacarías Rincón,9,60,12743.0,10,True,10.0,17,Alquiler,23,1
+IDMWT1702,Amanda Prado,9,89,15114.0,10,False,3.0,22,Propia,20,0
+IDVJO0835,Conchita Alicia Valladares,8,93,,1,True,7.0,21,Propia,3,1
+IDLMR3162,Pascual Lebrón,5,60,15056.0,10,True,2.0,24,Propia,19,0
+IDHGP8306,Lorena Montes Padilla,9,62,9596.0,7,False,3.0,22,Alquiler,70,0
+IDYLN6571,Lic. José Eduardo Partida,1,72,8300.0,8,False,6.0,19,Propia,2,1
+IDIQV2942,Sr(a). Rubén Sarabia,8,61,27824.0,3,False,12.0,22,Propia,76,1
+IDGJU4302,Paulina Sara Rico,4,91,22657.0,10,False,1.0,29,Alquiler,75,0
+IDVLY1402,Irma Armendáriz Cervantes,8,89,24303.0,5,True,8.0,27,Propia,3,0
+IDMTA0771,Mtro. María José Sarabia,7,66,16448.0,10,False,1.0,24,Propia,100,0
+IDETC6218,Perla Trejo,8,89,8300.0,4,False,4.0,19,Alquiler,4,1
+IDTCB5557,Sandra Alta  Gracia Anaya Ortiz,2,67,22732.0,10,False,,22,Propia,90,0
+IDEOI4870,José María Claudio Abrego,5,100,33511.0,5,False,12.0,25,Propia,22,0
+IDVCY8766,Dr. Marcos Lucio,9,88,,8,False,6.0,30,Alquiler,94,0
+IDJIL1554,José Eduardo Castañeda,4,73,22860.0,10,True,2.0,19,Alquiler,14,0
+IDNKM2388,Lic. Abigail Luna,1,68,36091.0,10,False,1.0,27,Propia,5,0
+IDKTI5538,Ana María Homero Díaz,4,79,17216.0,4,False,9.0,25,Propia,20,0
+IDBJY4994,Emilia Tirado Vergara,3,88,21304.0,10,False,13.0,21,Propia,73,0
+IDXTC9805,Luis Miguel José Emilio Coronado,6,78,13484.0,6,False,7.0,20,Propia,77,1
+IDRHX6082,Leticia Gabriela Villaseñor,6,94,8300.0,5,False,5.0,20,Alquiler,100,0
+IDBPR0403,Yeni Abraham Soria Briseño,5,79,43694.0,3,False,10.0,20,Alquiler,79,0
+IDTMM5359,Ing. Olivia Nevárez,2,84,16042.0,10,False,9.0,20,Alquiler,92,0
+IDBSB0578,Rufino Palomino Collado,4,99,8300.0,8,True,10.0,19,Propia,30,0
+IDXAW3836,María Cristina Manuel Tórrez Hidalgo,9,65,23660.0,8,False,,31,Propia,17,0
+IDWNX6729,Eloy Dolores Pizarro,3,68,21578.0,10,False,3.0,17,Propia,11,0
+IDPEZ6496,Emilia Gallegos,9,71,,9,False,1.0,21,Propia,75,0
+IDVTT5902,Renato José Luis Anguiano,5,63,21914.0,2,False,1.0,25,Propia,75,1
+IDQQA3509,José Carlos Arguello Ocampo,6,76,,7,False,6.0,22,Alquiler,78,1
+IDTSR3020,Felix Maya,4,71,31132.0,2,True,1.0,17,Alquiler,84,1
+IDSAW1018,Hermelinda Delia Carmona,10,93,,10,False,3.0,17,Propia,25,0
+IDPFC2639,Darío Indira Aponte,2,86,,10,False,1.0,18,Propia,72,0
+IDDMR2324,Pedro Olivera Niño,8,63,23034.0,1,False,1.0,25,Propia,5,1
+IDZPL5598,Modesto Valverde Sevilla,8,70,15610.0,10,True,1.0,20,Propia,79,1
+IDAJP0430,Óliver Jiménez,3,97,,10,True,9.0,21,Propia,87,0
+IDLOI4259,Germán Dolores Elizondo,2,85,19870.0,6,True,4.0,18,Propia,16,0
+IDBLW2617,Pamela Aguirre,3,86,17215.0,4,False,1.0,17,Alquiler,29,0
+IDFLE2249,Barbara Parra Ferrer,7,95,8300.0,6,False,12.0,25,Propia,80,0
+IDMYV2393,Raquel Leonor Gaitán Leyva,10,85,13091.0,3,False,,20,Alquiler,98,0
+IDMVV7923,Micaela Marroquín,5,63,8300.0,10,True,,22,Propia,19,0
+IDIIT9683,César Olvera,2,61,21182.0,10,False,4.0,17,Alquiler,71,1
+IDPEX6966,Elvia Carrasco,1,90,8300.0,7,False,2.0,22,Propia,82,1
+IDIWC9410,Lic. Mauricio Mares,2,65,17481.0,7,True,1.0,20,Propia,4,1
+IDYER4105,María Eugenia Felipe Concepción Madrid,3,89,,4,False,1.0,17,Propia,18,0
+IDJLM0329,Ángela Estela Rael,5,69,23870.0,9,False,5.0,22,Propia,79,0
+IDTIK9282,Ing. Cristina Ochoa,4,85,,10,False,6.0,21,Alquiler,23,0
+IDWGH0321,Uriel Alejandro Gastélum,9,82,,1,False,3.0,27,Propia,90,0
+IDNIB9092,Esteban Cervantes de la Fuente,9,100,15995.0,10,False,2.0,17,Propia,21,0
+IDUMR5233,Fernando Modesto Lucero,7,88,10698.0,10,False,7.0,23,Propia,10,0
+IDGOP6390,Mtro. Virginia Zarate,3,78,9828.0,1,True,,17,Alquiler,8,0
+IDDZW6865,Adalberto Daniela Estrada Olivera,2,79,26931.0,3,False,1.0,24,Propia,75,0
+IDDBI1439,Alfonso Padilla Montañez,1,75,8300.0,5,False,1.0,17,Alquiler,15,1
+IDRFN8704,Esperanza Julio César Botello,4,95,17740.0,10,True,,18,Alquiler,100,0
+IDZUZ3944,Dr. Augusto Escobar,1,78,12303.0,10,False,1.0,27,Propia,84,0
+IDSZQ7368,José Manuél Marín,2,68,21545.0,10,True,4.0,26,Propia,27,0
+IDFZZ8119,Micaela Corral Orozco,3,98,,10,False,,24,Propia,26,0
+IDCJK2143,Elisa Cristobal Madrigal,4,88,26079.0,10,False,,17,Propia,24,0
+IDNRY8144,José Eduardo Flórez,8,74,14892.0,3,False,1.0,22,Propia,26,0
+IDQMR0328,Eric Modesto Quezada Benavides,5,63,21288.0,10,True,1.0,37,Propia,89,0
+IDQRQ7875,Dr. Flavio Laboy,5,82,14784.0,4,False,,17,Propia,23,1
+IDOQJ2632,Serafín Mercedes Carbajal,7,97,8300.0,10,False,,20,Propia,80,0
+IDEDV9789,Leticia Anabel Osorio,1,65,34066.0,9,True,4.0,17,Propia,3,1
+IDVOY1065,Lucía Diana Guardado,3,83,14330.0,10,False,1.0,17,Propia,27,0
+IDTJH1619,Emilio Tamez Domínguez,6,79,45062.0,9,False,6.0,32,Propia,75,0
+IDOKT4529,César Rodríquez Castañeda,10,79,,3,False,,17,Alquiler,75,0
+IDVTJ5095,Alma René Valenzuela,2,93,9274.0,6,False,1.0,22,Alquiler,74,0
+IDXAZ2549,Israel Ignacio Prieto,9,96,24526.0,9,False,1.0,23,Propia,7,0
+IDSNH1769,Dr. Isabela Jaramillo,6,69,13318.0,10,False,,21,Alquiler,79,0
+IDMNL5251,Pedro Francisca Zamora Rivero,6,96,36437.0,4,True,5.0,17,Propia,15,0
+IDTMX9976,José Manuél Celia Segura Montalvo,10,87,32282.0,6,False,1.0,18,Alquiler,93,0
+IDQFR4443,Fidel Gaona Laureano,9,63,,8,False,,17,Propia,22,0
+IDNDT9338,Antonia Arriaga Murillo,6,99,29716.0,10,False,3.0,32,Propia,80,1
+IDKHI5939,Isabel Carrión,8,66,42098.0,6,False,5.0,19,Alquiler,95,0
+IDJRH8587,Aurora Anel Castellanos Gómez,3,93,,6,True,6.0,21,Propia,6,0
+IDGCV2073,Sr(a). Wilfrido Valladares,2,100,12186.0,1,True,,26,Alquiler,100,0
+IDYML1717,Reynaldo Ávalos,8,78,11947.0,8,False,11.0,18,Alquiler,76,0
+IDSAM7144,Gerardo Macías,2,96,23299.0,1,True,3.0,17,Alquiler,72,0
+IDYNQ4516,Alvaro Cuellar,1,95,24767.0,10,False,2.0,23,Alquiler,21,0
+IDZUP7831,Emilio Dalia Regalado,7,89,18236.0,10,False,2.0,26,Alquiler,20,0
+IDFSB6691,Leticia Echeverría Vázquez,8,98,32831.0,6,False,1.0,25,Propia,27,0
+IDOAL4230,Sr(a). Javier Cordero,1,90,,10,False,3.0,21,Alquiler,89,0
+IDAZX0723,Ramón Sessa Haro,4,86,17446.0,2,False,4.0,17,Alquiler,86,0
+IDAQV6603,Dulce Úrsula Mesa,6,79,26127.0,10,False,,17,Propia,19,0
+IDBOA1986,Clemente Riojas,4,67,,8,False,1.0,19,Alquiler,86,0
+IDIFY0430,Esther Piña Alba,1,68,24265.0,10,False,4.0,28,Alquiler,88,0
+IDKLN6765,Ariadna Cristal Vigil,5,93,23757.0,10,False,3.0,22,Propia,98,0
+IDDQZ4246,Mtro. Abraham Moreno,4,80,,6,False,,17,Propia,71,0
+IDIQT6837,Tania Estela Rentería,3,100,8300.0,10,True,,20,Propia,6,0
+IDGKM6789,Karina Lucas Bravo,9,67,20237.0,10,False,,21,Propia,74,0
+IDIKC7316,Norma Felix Ureña Alcántar,10,65,,9,False,11.0,17,Propia,30,1
+IDIAW4516,Rafaél Chávez,4,70,32310.0,10,True,7.0,17,Propia,11,0
+IDLBT9487,Aurora Rolando Rosales,10,64,21204.0,5,False,2.0,18,Propia,19,0
+IDQIM1975,Clemente Daniel Aguilar,7,92,23570.0,9,False,4.0,20,Alquiler,76,0
+IDDDD0205,Ing. Esparta Saldaña,7,66,23125.0,3,False,2.0,22,Alquiler,10,0
+IDMXS4875,Sr(a). Javier Angulo,5,76,11045.0,6,False,12.0,17,Propia,6,0
+IDLGT8695,Sr(a). Cristina Puente,3,72,10572.0,6,False,4.0,26,Propia,25,0
+IDVRW4999,Sofía Burgos Tapia,7,84,31724.0,4,False,1.0,20,Propia,83,0
+IDIJV3702,Mtro. Antonia Roque,4,76,19728.0,10,False,,24,Propia,73,0
+IDPMF6112,Rodrigo Serafín Delgado,6,99,26037.0,10,True,1.0,31,Propia,90,1
+IDSAO1000,Eugenio Palomino,2,82,26503.0,10,False,11.0,21,Alquiler,4,1
+IDWRC8143,Lic. Mateo Valle,8,97,20104.0,10,False,1.0,21,Propia,8,0
+IDUXG6911,Arturo Delgado Berríos,5,87,14626.0,10,False,1.0,17,Propia,80,0
+IDEWR8643,Abelardo Velázquez Villaseñor,9,61,17749.0,5,False,4.0,23,Alquiler,71,0
+IDDWK7365,Mtro. Anabel Vega,1,62,29452.0,4,False,,26,Alquiler,91,1
+IDMFN2723,Dr. Leonel Muro,4,90,34366.0,10,True,3.0,28,Alquiler,19,0
+IDGTP9945,Rebeca Gustavo Posada,3,71,31047.0,8,True,1.0,17,Propia,15,0
+IDIMS9983,Ing. Mariana Pulido,4,90,30693.0,8,True,8.0,17,Propia,2,0
+IDIUY4495,Anel Haro Páez,3,86,14123.0,10,True,1.0,17,Propia,82,1
+IDPUZ8671,Mtro. Adriana Adame,3,71,,10,True,3.0,17,Alquiler,1,0
+IDVUA7164,Andrea Yeni Caballero,8,91,25682.0,9,False,1.0,17,Alquiler,85,0
+IDBMI6171,Sr(a). Estela Alcala,9,64,28911.0,10,False,10.0,17,Alquiler,91,0
+IDNYN2132,Anel Paulina Martínez,4,90,26524.0,5,False,1.0,17,Alquiler,7,0
+IDATF2048,Federico Santana,8,77,,10,False,1.0,24,Propia,78,0
+IDVSV7601,Mtro. Marcela Vázquez,2,60,,3,False,7.0,22,Propia,4,1
+IDFQR9762,Rolando Óscar Terrazas Sanabria,10,69,29711.0,10,False,6.0,17,Alquiler,90,0
+IDFQC4240,Eva Carrasco Piña,8,99,16515.0,4,False,1.0,18,Alquiler,98,0
+IDHIF2807,Ivonne Karla Quiñones,6,85,,6,True,4.0,24,Alquiler,16,0
+IDJUQ8657,Marisela Estela Garibay Arredondo,5,80,,4,True,1.0,17,Propia,74,0
+IDIHQ2671,Mtro. Luz Ureña,3,88,26225.0,7,False,,17,Alquiler,7,0
+IDLVL1086,Karina Eugenia Barela,8,99,18097.0,7,False,2.0,17,Alquiler,17,0
+IDMHE2708,Magdalena Rubén Pizarro,6,93,15213.0,3,False,4.0,17,Alquiler,77,1
+IDTWG5294,Eugenia Jorge Rivas,8,96,17782.0,6,False,6.0,24,Propia,24,0
+IDGEZ4383,Ing. Jesús Brito,1,100,21960.0,10,False,15.0,30,Alquiler,24,1
+IDBDP8103,Miriam Lemus,1,65,8300.0,9,False,5.0,17,Alquiler,14,1
+IDBZR7513,Porfirio Jaqueline Vélez Bravo,6,67,,10,False,,22,Propia,74,0
+IDVLV5391,José Eduardo Pamela Solano,6,77,26459.0,1,False,1.0,20,Alquiler,29,0
+IDTYX9065,Julia Delgado Cruz,9,88,27277.0,9,False,9.0,19,Alquiler,25,0
+IDBLL0945,Dr. Lorena Rocha,2,86,,4,True,1.0,22,Propia,21,0
+IDXFZ1094,Natalia Domínguez Gil,10,67,18140.0,2,False,2.0,31,Propia,26,0
+IDJKX1693,Ing. Bianca Carmona,2,73,20470.0,4,False,11.0,17,Propia,23,1
+IDQQL0714,Mariana Arturo Acosta Villareal,6,73,15938.0,6,True,6.0,22,Propia,89,0
+IDNIB8704,Mtro. Manuel Candelaria,2,85,23964.0,10,False,11.0,25,Alquiler,93,1
+IDWWY4195,Yeni Victoria Tórrez Pérez,2,84,8300.0,6,False,19.0,19,Propia,8,1
+IDHAM6163,Andrés Covarrubias,9,70,23251.0,10,False,1.0,19,Propia,24,1
+IDECY3954,Rocío Montoya,7,77,8300.0,4,True,1.0,17,Propia,70,1
+IDAKV5002,Tania Ramiro Parra,3,100,29104.0,10,False,,25,Alquiler,2,1
+IDYUD2172,Natividad José Gálvez Quesada,10,80,11868.0,10,True,5.0,21,Alquiler,81,0
+IDSEE0726,Joaquín Venegas,3,72,18193.0,10,False,,21,Alquiler,16,0
+IDTHW2571,Jacobo de la Rosa Cordero,1,87,23975.0,10,False,1.0,18,Alquiler,100,0
+IDONN3134,Lic. Zacarías Mata,2,93,39780.0,10,False,4.0,24,Propia,11,0
+IDAWN2595,Santiago Riojas,7,84,30103.0,4,False,5.0,17,Propia,10,0
+IDRJH6571,Araceli Rael,5,89,38683.0,7,False,,21,Alquiler,85,0
+IDTHX5468,Socorro Arturo Alonso,2,87,27606.0,10,False,,19,Alquiler,73,0
+IDABD0481,Dr. Felipe Cortés,3,64,22531.0,10,True,7.0,19,Propia,82,0
+IDPQL4643,Iván Sofía Muñoz,8,77,25640.0,9,False,,17,Propia,79,0
+IDLPY7952,Bianca Clemente Ávila,8,61,19748.0,3,True,1.0,24,Alquiler,82,0
+IDIQR5149,Sr(a). Berta Mercado,8,74,19188.0,1,False,1.0,22,Alquiler,70,0
+IDVYR4257,Diana Raquel Pedraza Corral,7,85,25564.0,7,False,4.0,27,Propia,84,0
+IDDTE6867,Asunción Francisco Javier Rivera Loya,4,99,8300.0,10,False,5.0,27,Alquiler,80,0
+IDLDE8495,Patricia Salma Olvera Nazario,2,100,26746.0,3,False,1.0,29,Alquiler,9,0
+IDXPD5359,Lic. Zacarías Sotelo,3,78,14705.0,8,True,,18,Propia,71,0
+IDFJV3606,Trinidad Villarreal Baca,7,68,,10,False,5.0,22,Alquiler,92,0
+IDVWX5569,Sergio Uriel Miramontes Ornelas,9,75,26251.0,10,True,1.0,27,Alquiler,77,1
+IDZKG0268,Karina Fajardo Nájera,3,90,22170.0,8,False,3.0,25,Alquiler,18,0
+IDRYD5409,Lic. Helena Zavala,1,78,29273.0,10,False,7.0,27,Propia,84,0
+IDKTP5543,José María Celia Vera,1,98,8300.0,9,False,1.0,23,Propia,19,1
+IDUAF7437,Dalia Caraballo,7,98,16712.0,5,True,6.0,25,Alquiler,83,0
+IDCAD7849,Amanda Carvajal,5,93,15305.0,2,False,4.0,21,Alquiler,77,0
+IDGRQ5251,Mario Bernardo Granado Madera,4,66,26823.0,7,True,,27,Alquiler,13,0
+IDHJU2540,Trinidad Esparta Armas,10,62,29817.0,10,False,1.0,17,Alquiler,98,0
+IDZRM6337,Gonzalo Miguel Mireles,4,72,18004.0,8,False,9.0,17,Propia,26,0
+IDBWW0924,Raúl Silvano Mateo,10,78,13492.0,1,False,1.0,21,Alquiler,18,0
+IDNBF5868,Juan Carlos Linda Quintanilla,3,85,16405.0,10,False,7.0,25,Propia,94,0
+IDQLY6215,Graciela Miranda Acuña,8,64,9315.0,10,False,1.0,17,Alquiler,71,0
+IDSWG7644,Luisa Patricio Cabán Olivárez,1,99,12320.0,6,False,11.0,18,Alquiler,7,1
+IDIMG7521,Débora Perales Matías,6,65,,9,False,1.0,20,Alquiler,76,0
+IDQNY0940,Patricio Bustos,1,81,15444.0,10,False,1.0,28,Propia,4,1
+IDKEL9838,Teodoro Merino,6,75,23284.0,1,False,4.0,23,Propia,15,0
+IDYZF0143,Esteban Torres,8,89,,10,False,1.0,22,Propia,82,0
+IDWGN7903,Gabriela Teresa Figueroa Ureña,4,72,14842.0,9,False,1.0,17,Propia,78,0
+IDZLU9333,Gustavo Marisol Grijalva Lucero,2,76,,10,False,,17,Alquiler,75,0
+IDIQK5492,Ángela del Río Linares,4,84,,5,True,3.0,26,Propia,22,0
+IDRBM8519,María Luisa Bermúdez,7,88,26566.0,10,False,,30,Propia,4,0
+IDVMH6047,Luis Miguel Alcaraz,1,64,17291.0,10,False,11.0,22,Propia,30,1
+IDDYB4735,Dr. Fidel Fernández,8,94,8300.0,8,False,,18,Propia,18,0
+IDGGX2846,Sr(a). Bernardo Montemayor,10,83,16745.0,7,False,1.0,23,Propia,18,0
+IDPAX7993,Manuel Diego Porras Roybal,7,79,36308.0,10,False,1.0,25,Alquiler,84,0
+IDBDQ0360,Felipe Genaro Gaitán,5,61,,10,False,1.0,17,Alquiler,19,0
+IDQJG7741,Genaro Jorge Espinal Gamboa,3,93,19256.0,10,False,11.0,29,Propia,13,0
+IDZYU9529,Bruno Flórez,7,72,26158.0,6,False,1.0,25,Alquiler,1,0
+IDFHI5621,Ing. Marco Antonio Negrón,8,63,25397.0,10,False,3.0,23,Propia,96,0
+IDMBJ1762,Ing. Yolanda Delgadillo,5,60,,10,False,1.0,26,Propia,19,1
+IDOAP7652,Santiago Esther Gastélum Enríquez,1,92,32737.0,8,False,8.0,25,Alquiler,89,0
+IDSWM1158,Joaquín Carolina Meléndez,5,65,,10,True,7.0,20,Propia,75,0
+IDGTL4941,Pablo Maximiliano Sierra Abrego,7,62,18982.0,2,False,5.0,17,Propia,26,1
+IDDXB3013,Reina Claudio Navarrete,10,61,36855.0,10,True,1.0,22,Alquiler,91,0
+IDSZS0991,Aida Jesús Muñiz Mojica,4,95,16713.0,9,False,1.0,17,Alquiler,24,0
+IDHKI6983,Ing. Antonio Cadena,6,71,14636.0,9,False,2.0,17,Alquiler,72,0
+IDSEP4295,Aldonza Vélez Montemayor,2,67,15281.0,10,False,8.0,26,Propia,27,0
+IDWFK2284,Minerva Palacios Gurule,5,100,8300.0,10,False,,17,Propia,28,0
+IDOII2544,Ing. Teodoro Estévez,2,96,13019.0,10,False,1.0,19,Alquiler,14,0
+IDGMG8563,Elisa Hermelinda Valdivia,3,83,,10,False,17.0,17,Propia,98,0
+IDJYO4574,Luz Adalberto Posada Gálvez,6,100,,2,False,1.0,17,Propia,89,0
+IDLPT8003,Dr. Patricia Iglesias,5,95,32404.0,1,False,3.0,18,Alquiler,11,0
+IDQGI5397,Bianca Pérez Valdez,2,84,,10,True,,29,Alquiler,10,0
+IDIAD1488,Patricia Eugenio Longoria,10,65,34677.0,8,False,6.0,17,Propia,77,0
+IDDKP5227,Claudio Carrero Nazario,5,77,,10,False,3.0,24,Propia,75,0
+IDOPT1917,Ruby Díaz Cantú,10,66,13115.0,10,False,,22,Propia,28,0
+IDZGO2455,María Elena Juan Escobedo Cazares,9,89,,5,False,,17,Propia,17,0
+IDMUM2292,María Elena Benito Irizarry,5,94,17273.0,3,False,6.0,25,Alquiler,14,0
+IDNYQ2477,Raquel Mercado Iglesias,10,89,21916.0,9,False,1.0,21,Propia,9,0
+IDRLK6245,Ing. Pilar Salas,7,95,,10,False,1.0,24,Alquiler,88,0
+IDPRW3743,Silvia Meléndez,9,85,15525.0,10,False,1.0,17,Propia,84,0
+IDFNH9027,Gonzalo Zepeda,10,78,8300.0,10,True,3.0,17,Alquiler,100,1
+IDJOX1817,Hugo Vergara Estrada,9,100,19910.0,10,True,5.0,18,Propia,27,0
+IDJXU9655,Mauro Arturo Alemán,7,79,21141.0,6,False,6.0,26,Propia,96,0
+IDJDC7414,Anel Gallegos Ochoa,4,89,36494.0,10,True,2.0,23,Alquiler,83,0
+IDZVS9950,Dr. Francisco Granados,6,79,14529.0,7,True,5.0,24,Alquiler,30,1
+IDMOE9969,Susana Jacinto Matías,6,83,19129.0,8,False,1.0,22,Alquiler,75,0
+IDNSP8062,Bernardo Nancy Villalpando Montemayor,6,71,22458.0,6,False,2.0,18,Alquiler,79,0
+IDIQE7597,Leonel Trujillo Santiago,3,66,8300.0,5,False,7.0,17,Alquiler,99,0
+IDIPU9038,Lucas Eloy Laboy Solorio,8,86,8300.0,10,False,1.0,22,Propia,29,0
+IDTOX0383,Dr. Antonia Urbina,1,80,17617.0,10,False,,26,Alquiler,89,0
+IDCNQ2075,Yuridia Martha Cuellar,10,71,9723.0,9,True,9.0,22,Alquiler,92,0
+IDKBG9745,Camila Posada Alcántar,3,97,25898.0,10,False,,22,Propia,83,0
+IDCJN5268,Lic. Trinidad Godínez,1,94,,1,False,1.0,17,Alquiler,90,0
+IDVOZ8074,Yolanda Guillermo Tovar Romo,6,77,19660.0,8,False,5.0,17,Alquiler,27,0
+IDQRC7599,Vicente José María Valdivia Almanza,8,96,,8,False,1.0,17,Alquiler,3,0
+IDFDY0399,Ignacio José Carlos Uribe Sepúlveda,10,97,22427.0,10,True,7.0,17,Alquiler,3,0
+IDLLG4994,Rolando Ramón,2,63,,6,False,15.0,23,Alquiler,22,1
+IDLAH4736,Abel Camarillo,9,98,16136.0,10,True,13.0,24,Propia,79,0
+IDFCR5061,Salvador Amador Leal Salas,4,77,18905.0,10,False,6.0,17,Propia,80,0
+IDBYU6730,Emiliano Beatriz Ocasio Benítez,10,100,17659.0,5,True,5.0,17,Alquiler,79,0
+IDDJA4711,Dr. Lorena Ledesma,8,85,,10,True,1.0,23,Alquiler,12,0
+IDGVH3600,Israel Josefina Urías,5,87,,10,False,4.0,17,Alquiler,82,1
+IDJGR7385,Lic. Salma Saldaña,10,66,14484.0,10,False,7.0,17,Alquiler,91,0
+IDRMI0889,Clemente Óliver de la Garza,10,92,,5,False,5.0,33,Propia,88,0
+IDNQN3518,Ernesto Victoria Mojica,9,60,12979.0,9,False,5.0,19,Alquiler,82,0
+IDVAH7362,Bruno Bianca Bueno Caballero,3,65,8300.0,6,False,9.0,17,Alquiler,20,0
+IDDIW0131,Ariadna Ornelas Cantú,5,84,28815.0,10,True,,19,Alquiler,92,0
+IDPOU8267,Rosario Margarita Cazares Farías,9,68,8300.0,9,True,2.0,19,Propia,98,0
+IDSFE8009,Yeni Inés Domínguez Rosado,3,91,,8,False,3.0,17,Alquiler,12,0
+IDPTV8289,Fernando Carrera,6,75,33836.0,10,False,5.0,27,Alquiler,86,0
+IDJRH9657,Sessa Magdalena Mata Ureña,10,60,15103.0,10,False,1.0,20,Propia,9,0
+IDLNW1295,Jorge Quintana,6,60,12442.0,10,True,,27,Alquiler,15,0
+IDFDH1463,Sr(a). Marisol Estévez,4,70,30590.0,10,False,5.0,19,Alquiler,93,0
+IDGOC2888,Marisela Negrete,2,61,8699.0,5,False,1.0,18,Propia,75,1
+IDFFP9220,Caridad Zamora,4,93,,6,False,,28,Propia,85,0
+IDHWT2648,Alonso Pilar Orosco,2,97,,7,False,9.0,27,Alquiler,17,1
+IDWMF3490,Francisco Javier Marco Antonio Domínguez Montaño,6,91,20242.0,10,False,5.0,20,Alquiler,83,0
+IDRVU6979,Pamela Narváez Godínez,2,65,16535.0,8,False,4.0,17,Alquiler,99,0
+IDGVL4563,Dr. María Cristina Gálvez,3,94,,10,False,2.0,24,Alquiler,92,0
+IDWNC5524,Rubén Mitzy Ceja Granados,9,68,17672.0,10,False,8.0,22,Propia,87,0
+IDYOQ4311,Alfonso de la Garza,5,67,32944.0,6,True,,26,Propia,95,0
+IDGQD3041,Ing. Jesús Sosa,9,92,14888.0,8,True,9.0,20,Propia,16,0
+IDDMD6311,Daniela José Manuél Pedraza Méndez,9,91,30405.0,10,True,1.0,17,Alquiler,94,0
+IDFVI8913,Adela Quiñones Gaitán,1,80,9250.0,3,False,,28,Propia,7,1
+IDEDI3978,Ing. Guadalupe Rangel,6,60,15088.0,10,True,12.0,26,Alquiler,89,0
+IDGXG7314,Felipe Cornelio Santacruz,3,60,43225.0,10,False,1.0,22,Propia,73,0
+IDSAN7308,Abigail Bustamante,7,75,10265.0,5,False,8.0,17,Propia,74,0
+IDFKM5213,Reynaldo Ofelia Cepeda,2,61,,10,True,5.0,18,Alquiler,85,1
+IDDBI6127,Lic. Nayeli Reséndez,7,66,24789.0,6,False,9.0,21,Alquiler,15,0
+IDTBF2972,Angélica Jacobo Zambrano Arce,2,73,24033.0,10,False,1.0,21,Alquiler,84,0
+IDEVI3704,Enrique Sandoval Guevara,10,73,20837.0,1,False,1.0,30,Propia,92,1
+IDGSX6452,Daniela Alma Abrego,10,84,13104.0,10,False,9.0,17,Alquiler,100,0
+IDYQZ6307,Amanda Solorzano,3,81,16596.0,9,False,,17,Propia,83,0
+IDOLP5501,Mtro. Raquel Arce,10,89,29680.0,8,False,9.0,20,Propia,17,0
+IDNPB1776,Celia Zapata Toledo,2,63,15608.0,7,False,1.0,25,Alquiler,90,0
+IDWBF2682,Ilse Corrales,4,63,31185.0,7,False,1.0,27,Propia,76,1
+IDJOD5426,Benjamín Jaqueline Alarcón Escalante,9,73,,10,False,7.0,32,Alquiler,15,0
+IDYWT9343,Francisco Javier Rosas,6,75,15458.0,5,True,1.0,21,Propia,21,0
+IDYQW7498,Mtro. Rebeca Vázquez,1,87,29600.0,10,False,2.0,28,Alquiler,29,1
+IDBIA9571,Guillermina Vélez Marrero,1,79,8300.0,4,False,,20,Alquiler,22,1
+IDULT3325,Lic. Mauricio Palacios,5,72,,10,True,1.0,17,Propia,20,0
+IDXMS2836,Marisol Andrea Oquendo Alonso,5,75,,6,False,5.0,19,Alquiler,93,0
+IDVWF4631,Elisa Reina Cotto,6,98,26027.0,9,False,,27,Alquiler,16,0
+IDSYO6207,Timoteo Ramón Gamboa,8,74,18083.0,10,True,1.0,30,Alquiler,1,0
+IDSJW2320,Isabel Eduardo Vergara,10,77,11602.0,10,False,1.0,23,Alquiler,91,0
+IDCHG5794,Lic. Esmeralda Partida,9,81,10305.0,5,False,1.0,30,Alquiler,83,0
+IDXUJ9969,María del Carmen Toledo,4,88,19691.0,10,False,2.0,24,Alquiler,14,1
+IDRUM5790,Marcos Mena,9,76,,5,False,,17,Alquiler,92,0
+IDTYM7429,José Arcelia Roque Murillo,5,80,,10,False,1.0,17,Alquiler,75,0
+IDMOS0888,Amelia Cepeda Amaya,10,93,17231.0,9,False,9.0,27,Alquiler,5,1
+IDDJY9898,Dolores Salas,9,86,27267.0,5,False,12.0,23,Alquiler,71,1
+IDQKZ9286,Judith Santiago Orosco Gallardo,5,74,11535.0,6,False,1.0,19,Alquiler,85,0
+IDDHJ8113,Samuel Mejía Trejo,6,96,10611.0,1,False,8.0,17,Alquiler,5,0
+IDKHW9444,Miriam Jacobo Saldaña,8,89,,4,False,12.0,26,Alquiler,3,1
+IDFQM0230,Reynaldo Santillán Zavala,6,90,18874.0,10,False,11.0,23,Alquiler,89,1
+IDJHU4032,Paulina Rebeca Serrano Cintrón,3,86,,2,False,1.0,17,Alquiler,99,0
+IDXID4217,Araceli Timoteo León,2,84,13799.0,10,False,11.0,21,Alquiler,71,1
+IDLHN7563,Vanesa Santiago Bernal,8,78,,10,True,,20,Alquiler,94,0
+IDENA5328,Ing. Joaquín Godoy,2,69,26627.0,8,False,9.0,17,Alquiler,5,0
+IDWBO9935,Sr(a). Fabiola Ruelas,5,78,23828.0,6,False,1.0,17,Propia,8,0
+IDHPE8648,Rufino Yeni Galarza Oquendo,2,86,20203.0,6,True,5.0,22,Propia,28,0
+IDPPD4408,Miriam Villareal,9,75,23478.0,10,False,6.0,32,Alquiler,84,0
+IDQSR9672,Aldonza Luis Manuel Fernández,4,90,38207.0,8,False,1.0,26,Alquiler,10,0
+IDVXV9795,Tania Guadalupe Tijerina,8,94,43635.0,4,False,,20,Alquiler,81,0
+IDNCI6902,Irene Rocío Vanegas,10,74,22424.0,2,True,4.0,17,Alquiler,2,1
+IDLXX9068,Alfonso Octavio Vigil de la O,10,81,24627.0,3,True,5.0,17,Alquiler,100,0
+IDVIZ4628,Sr(a). Leonor Padilla,5,97,26434.0,1,False,,20,Alquiler,20,0
+IDTOU1305,Leonor Guevara,10,93,15848.0,8,True,11.0,20,Propia,28,0
+IDKFX7043,Dolores Gómez Ortega,8,84,15802.0,5,False,2.0,22,Alquiler,93,0
+IDERM4351,Mtro. Óscar Juárez,6,74,8300.0,4,False,1.0,17,Alquiler,22,1
+IDZGW9660,Arcelia Mireles,2,99,,10,False,,27,Alquiler,91,0
+IDFRP1527,Aurora Loera Alva,2,81,,4,False,8.0,31,Alquiler,73,0
+IDBWE0217,José María Tejada Montes,2,71,11778.0,5,False,6.0,17,Alquiler,73,0
+IDYGT6520,Augusto Rosario Laureano Palacios,10,94,8300.0,10,False,12.0,32,Propia,70,0
+IDXSV1778,Samuel Rodrigo Montez,8,77,19348.0,6,False,7.0,18,Propia,94,0
+IDLIO6494,Abigail Inés Badillo Griego,2,82,25539.0,10,False,,18,Propia,19,0
+IDQNP5615,Sr(a). Gilberto Casillas,4,65,,10,False,3.0,19,Alquiler,19,0
+IDVRM1293,Gloria Vergara,8,87,19411.0,6,False,6.0,17,Alquiler,20,1
+IDKFA0561,Yolanda Alvaro Garrido Quiñones,5,100,15984.0,10,False,1.0,18,Alquiler,96,0
+IDBVA3941,Juan Dávila,8,80,22067.0,8,False,5.0,33,Alquiler,12,0
+IDQQA2741,Mtro. Mitzy Pantoja,5,87,,10,False,10.0,20,Propia,8,0
+IDKTK8278,María Cristina Esparta Alva Tello,4,94,8300.0,6,False,1.0,18,Alquiler,14,0
+IDMOL7100,José María Salas Rojo,3,80,,8,False,1.0,19,Propia,70,0
+IDQVA2986,Rodrigo Armas Zepeda,1,75,19378.0,4,False,,17,Alquiler,80,0
+IDTUK0474,Dr. Augusto Ibarra,1,98,8300.0,10,True,1.0,17,Alquiler,1,1
+IDOCG8805,Sr(a). Rebeca Galván,7,69,8300.0,6,False,,26,Propia,16,0
+IDGWQ3225,Nelly Elias Aragón Escalante,1,95,23625.0,10,False,,31,Propia,1,1
+IDUEV0246,Dr. María Eugenia Naranjo,1,72,18060.0,1,False,2.0,21,Propia,83,0
+IDUIL6519,Mtro. Diego Grijalva,6,90,13454.0,2,False,1.0,20,Propia,99,0
+IDGMD7641,Carla Tejada,10,76,15661.0,7,False,1.0,20,Alquiler,14,1
+IDEWE6875,Aurelio Jerónimo Lira Melgar,3,61,,10,False,,25,Alquiler,7,0
+IDDHF3318,Augusto Negrón Castañeda,10,97,24757.0,10,True,1.0,19,Alquiler,17,0
+IDEWU6448,Carlos Eric Aguilar,7,88,18131.0,6,False,4.0,26,Propia,92,0
+IDDFS3730,Yolanda Miguel Zapata,1,99,14992.0,6,False,2.0,17,Propia,95,0
+IDDJO4965,Emilia Narváez,7,95,25186.0,10,True,1.0,24,Alquiler,22,0
+IDZPK2018,Amanda Malave Báez,7,85,18734.0,2,False,7.0,21,Alquiler,11,0
+IDZDD1506,Hermelinda Farías Badillo,4,70,,10,False,10.0,17,Alquiler,10,0
+IDVJP6673,Florencia Jaqueline de Anda,10,85,24909.0,5,False,9.0,17,Propia,79,0
+IDAPW5944,Leonardo Pineda,1,95,37353.0,10,True,4.0,22,Propia,88,0
+IDCZM5646,Jerónimo Camarillo Soliz,2,85,,4,False,1.0,20,Alquiler,20,0
+IDIWE6687,Elvira Porras,8,64,28378.0,8,False,4.0,18,Propia,5,0
+IDATA1945,Carmen Escamilla Tapia,7,62,8523.0,10,False,,22,Propia,91,0
+IDEYG1531,Ramón Collazo Badillo,8,91,20411.0,7,False,15.0,18,Alquiler,78,0
+IDQZN3403,Jaqueline Velasco,3,92,19044.0,10,False,1.0,19,Alquiler,71,0
+IDXRE7636,Dr. Amalia Páez,3,89,,10,False,6.0,17,Propia,27,0
+IDZWH7419,Marisol Carrero Godoy,9,70,14121.0,10,False,6.0,17,Propia,23,0
+IDPLQ7260,Esparta Gaona Mojica,6,67,11396.0,10,False,11.0,17,Alquiler,23,1
+IDSPQ2931,Vanesa Iván Jaimes,2,61,25635.0,10,False,7.0,20,Propia,18,1
+IDTQS7358,Alberto Salvador de la Torre Juárez,6,93,15471.0,9,True,2.0,18,Propia,98,0
+IDKHY0224,Darío Ferrer Alcántar,10,93,,9,True,8.0,21,Alquiler,77,0
+IDBDG3824,Mtro. Rebeca Pineda,4,66,25919.0,10,True,1.0,17,Propia,89,0
+IDXAV3118,Rolando Lucas Verdugo,6,80,13680.0,9,False,6.0,25,Alquiler,14,0
+IDUZL4757,Esther Martín Lozada,8,91,25103.0,4,False,9.0,25,Propia,28,0
+IDDOX1723,Bruno Treviño,1,83,,8,False,1.0,25,Propia,18,0
+IDNPA3980,Benito Isaac Godoy Tejeda,10,70,24413.0,10,False,10.0,28,Propia,87,0
+IDPAV6321,Sr(a). Santiago Padilla,8,79,18830.0,5,False,,22,Alquiler,4,0
+IDUDJ1171,Andrea Gonzales,7,94,27583.0,10,False,2.0,18,Propia,23,0
+IDWOX6659,Camila Luis Manuel Vázquez Merino,5,90,,9,True,5.0,20,Alquiler,78,0
+IDYUC9046,Isaac Vásquez Arreola,2,90,16076.0,10,True,,17,Propia,29,0
+IDPOY1647,Dr. Óscar Cervántez,1,80,,4,False,1.0,18,Propia,7,0
+IDBOB3084,Leonor José Ornelas,2,74,22192.0,10,False,10.0,23,Alquiler,79,0
+IDASW5007,Mayte Victoria Holguín Casillas,7,69,,10,False,,20,Propia,91,0
+IDZLJ5602,Ing. Mario Quezada,1,73,8300.0,10,False,,18,Propia,95,1
+IDVRI5341,Francisco Javier María José Heredia,3,71,12194.0,5,False,4.0,17,Alquiler,10,0
+IDBMV6701,Micaela Renato Suárez,1,73,8300.0,8,False,,17,Propia,21,1
+IDMUT8008,José Esparza,2,64,31719.0,1,True,,17,Propia,89,1
+IDZXK6481,Jos Briseño Amador,9,79,,10,False,2.0,17,Propia,80,0
+IDOBS0776,Ing. Horacio del Río,6,72,25745.0,9,False,1.0,17,Propia,74,0
+IDSJR5627,Leonardo Villalpando,2,73,21125.0,10,False,,17,Alquiler,30,0
+IDJHC9711,José Villalobos,4,97,,5,False,,23,Propia,14,0
+IDRCV4151,Leticia Ricardo Medrano,1,83,,9,False,,30,Propia,89,0
+IDQRP0479,Noelia Vargas Ulibarri,1,84,16665.0,7,False,,19,Propia,70,0
+IDYUH8058,Dr. Carlota Ortega,7,86,13341.0,9,True,1.0,18,Propia,89,0
+IDTCK8375,Santiago Benítez,1,91,,10,False,11.0,23,Propia,85,1
+IDYPD2221,Lilia Palomino,9,89,20003.0,10,False,1.0,23,Alquiler,6,0
+IDNWK1029,Leonardo Vera,1,92,,3,False,1.0,22,Alquiler,92,0
+IDDYU1071,Débora José Carlos Contreras Vela,9,97,8300.0,8,False,1.0,17,Alquiler,79,0
+IDCCX0887,Mayte Virginia Caraballo,10,91,33460.0,4,False,2.0,19,Propia,5,1
+IDIOJ5123,Santiago Ricardo Rodríguez Brito,3,75,27984.0,10,False,5.0,17,Propia,12,0
+IDYKQ8548,Laura Conchita Regalado Negrete,5,100,33229.0,10,False,,32,Propia,29,0
+IDKUZ1819,Mónica Andrea Borrego Prieto,9,89,13930.0,5,False,,17,Propia,23,1
+IDZCM5556,Emilio Benjamín Narváez Lucio,9,70,24349.0,6,False,,25,Alquiler,88,0
+IDQXV2796,Marisol Felix Pulido Alcala,1,65,22523.0,4,False,7.0,29,Alquiler,8,1
+IDHCY2594,Martín Aranda Villegas,2,88,,2,False,1.0,25,Alquiler,73,0
+IDECM4393,Virginia Helena Ocasio Lerma,5,63,,10,True,1.0,23,Alquiler,15,0
+IDYVV1289,Mtro. Aurora Ponce,1,78,22562.0,6,True,7.0,22,Propia,19,0
+IDAXJ3031,Patricia Gonzales Barragán,1,68,,10,False,,17,Propia,84,0
+IDXSI3071,Marco Antonio Tania Vargas,7,70,20879.0,7,False,9.0,25,Alquiler,80,0
+IDQVA8546,Ana María Alejandra Pichardo,5,73,14726.0,4,False,5.0,17,Propia,73,0
+IDIAW2121,Lic. Úrsula Ochoa,4,78,8300.0,8,False,1.0,28,Alquiler,78,0
+IDGXA4308,Renato Gaytán,4,96,12841.0,1,False,,17,Alquiler,3,1
+IDFZP6547,Mtro. Jesús Sánchez,9,80,28065.0,10,False,7.0,22,Propia,4,0
+IDPZA7075,Jacobo Luevano Paz,9,82,,10,False,8.0,20,Alquiler,90,0
+IDQZE4515,Josefina Magaña Corral,7,85,26213.0,4,False,,17,Alquiler,87,0
+IDIBZ8476,Patricia Moreno,4,72,15453.0,10,True,6.0,20,Propia,78,0
+IDAQG0794,Sofía Castañeda,9,100,,5,True,1.0,21,Alquiler,5,0
+IDQFD8203,Karla Zeferino Márquez Heredia,2,96,27669.0,10,True,9.0,18,Propia,2,1
+IDWWT7733,Úrsula Escobedo,7,70,38926.0,6,False,6.0,23,Propia,18,0
+IDSMA3643,Violeta Santiago,8,74,,10,False,2.0,17,Propia,74,0
+IDXQB5868,Paulina Riojas Verduzco,5,86,25512.0,10,False,1.0,27,Propia,13,0
+IDKXA0643,Asunción Bernal Rincón,7,76,11167.0,10,False,1.0,17,Alquiler,87,0
+IDDPD7007,Nancy María Teresa Colón Tejada,2,69,11571.0,8,False,5.0,27,Propia,17,0
+IDUFA1383,Magdalena Toro,1,71,17568.0,8,False,4.0,17,Propia,16,0
+IDKAL0116,Gustavo Ofelia Sanabria Sotelo,3,82,8300.0,5,False,3.0,21,Alquiler,11,0
+IDHJC5897,Dr. Sara Tórrez,2,78,,10,False,6.0,21,Propia,89,0
+IDIJX6479,Yeni García Lomeli,5,88,21911.0,2,True,,23,Propia,7,0
+IDPDD8548,José Emilio Marcela Villareal,9,66,27694.0,8,True,1.0,21,Alquiler,22,0
+IDQGT1289,Fabiola Hernádez Morales,10,78,22950.0,9,False,3.0,23,Alquiler,98,0
+IDVUL6291,Rosa Matos Nazario,3,75,10689.0,10,False,1.0,23,Alquiler,88,0
+IDMLX1848,Federico Ricardo Mota,9,72,18649.0,9,False,1.0,17,Alquiler,1,0
+IDZXG4488,Dr. Adalberto Cardenas,7,68,20238.0,1,True,11.0,18,Alquiler,86,1
+IDRXG0317,Vanesa Camila Gracia,7,96,23637.0,10,False,3.0,17,Propia,78,0
+IDBCN3589,Agustín Soria,1,89,30533.0,10,False,3.0,20,Alquiler,80,0
+IDCIO3746,Andrea Barrientos Riojas,10,75,21300.0,10,False,,17,Propia,73,1
+IDMZY6157,Enrique Eduardo García,9,68,36847.0,6,False,2.0,22,Alquiler,23,0
+IDDJU8687,Lic. Eloisa Zavala,10,63,,5,False,9.0,22,Propia,9,0
+IDBBW6814,Arcelia Ramos Santacruz,9,63,25075.0,2,False,11.0,27,Propia,28,1
+IDPNR3651,Natalia Mario de la O,7,70,,10,False,13.0,20,Alquiler,3,1
+IDNUQ2930,Santiago Segura,3,82,21092.0,10,False,4.0,17,Propia,14,0
+IDDYA8504,Dr. Isabela Armendáriz,1,65,15915.0,10,False,1.0,25,Alquiler,88,0
+IDJIB8647,César Mercedes Sanches Carrasco,9,80,,6,False,2.0,23,Propia,91,0
+IDNPX6112,Noelia de Jesús Narváez,5,69,21363.0,7,False,4.0,17,Propia,25,1
+IDQQU1141,Omar Zeferino Bustos Nazario,6,93,16498.0,9,True,3.0,26,Alquiler,96,0
+IDLUP3373,Miguel Ángel Luna,7,85,8300.0,10,False,7.0,17,Alquiler,96,0
+IDQYE1754,Dr. Carolina Espino,4,83,,10,False,,30,Propia,81,0
+IDPHN2428,Angélica Abelardo Quesada Cuellar,9,99,12316.0,10,False,1.0,21,Alquiler,18,0
+IDEFL0307,Gloria José Manuél González,2,61,17642.0,10,True,3.0,24,Alquiler,70,0
+IDPLZ9466,Dr. Leticia Dueñas,2,81,22844.0,7,True,,17,Propia,17,0
+IDSCE4123,Pamela Aida Cuellar Valverde,5,62,30926.0,10,False,1.0,17,Propia,12,0
+IDMVM8752,Mtro. Gabriel Ayala,5,88,23043.0,10,True,,21,Propia,27,0
+IDETS6472,Felix Henríquez de León,10,78,13971.0,10,True,3.0,19,Alquiler,22,0
+IDRVV4303,Flavio Carolina Villalpando,8,61,26362.0,4,False,14.0,24,Alquiler,11,1
+IDVTP5762,Javier Collado,7,65,8300.0,7,True,2.0,20,Propia,93,0
+IDNXQ9012,Carla Amelia de León del Valle,5,62,11024.0,10,False,1.0,23,Alquiler,82,0
+IDPDN0333,Eduardo Ochoa,1,98,16335.0,10,False,3.0,27,Alquiler,30,0
+IDSPR2688,Clemente Otero,5,69,34206.0,7,True,7.0,17,Propia,7,0
+IDDBC3983,Karina Zúñiga Fierro,3,77,8300.0,7,False,2.0,21,Propia,28,1
+IDHIS8413,Verónica Caldera Arevalo,10,80,,1,False,1.0,17,Propia,26,0
+IDNFP8037,Luisa Anabel Archuleta Zayas,9,82,24578.0,9,True,,32,Propia,83,1
+IDTFU3747,Felipe Beltrán Prado,7,79,,10,False,2.0,21,Propia,82,0
+IDLCA1240,Daniel Godoy,1,78,,3,True,4.0,21,Propia,74,0
+IDVAJ9674,María del Carmen Farías,1,76,19421.0,10,True,1.0,17,Alquiler,6,0
+IDAVH4372,Ángel Laboy,3,74,24122.0,8,True,,27,Alquiler,76,0
+IDFOT8620,Amador Maya,4,80,19137.0,9,False,6.0,25,Propia,77,1
+IDQJD6165,Paola Natividad Jimínez,4,65,27084.0,8,False,1.0,30,Alquiler,3,1
+IDKCH5588,Evelio Romo Arriaga,2,64,13293.0,4,True,8.0,33,Propia,3,1
+IDCIV7786,Ramiro Ruiz,7,86,31047.0,9,False,1.0,23,Propia,97,0
